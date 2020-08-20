@@ -1,0 +1,45 @@
+1. Take 100% of the exam time! 
+ - don’t drop out hours early because you are stuck! 
+ - bugs might take a while to find, but they rarely take a long time to fix.
+
+2. Don’t panic!,
+	- the only risk of here is you find and expose your weaknesses and where you need additional study.
+
+3. Don’t watch the clock, 
+	- try to set alarms for a midway point, a last hour, a last 15 minutes.
+	- clock watching kills braincells.
+
+4. Start with what you know!, 
+	- save confusing bugs, especially related to black belt features, for the end
+
+5. Don’t hit start until you have your environment and boilerplate ready! 
+	- don’t write everything from scratch under exam time 
+	- do what you know you’ll need first! (login reg, spring boot, sql, controller, service, repo, models)
+
+6. Follow the exam prompt as a checklist!
+	- and double check it against your app before submitting
+
+7. Don’t overthink features!
+	- do exactly what the exam asks and no more
+
+8. Remember your training, use your resources! 
+	- you’ve done many or most of these features in the last month, 
+	- the platform has answers for 100% of the red belt requirements.
+
+9. If you have any problems submitting,
+	- send me your github repo and your deployed ip here: bstanton@codingdojo.com
+
+10 If you go over time, submit anyway and you will get a code review,
+	- always submit code, i’ll review it and give feedback
+
+11. No matter what, start the exam, take the wireframe, and consider it before monday!! 
+	- we WILL be going over it!
+
+12. Don’t worry about a video
+	- just bring it to me when you’re done
+
+13. Follow the bullet list of exam requirements, 
+	- if post-it notes on the wireframe itself contradict, the bullet list is the final say
+
+14. Join the lecture room so I can assign you a breakout space
+
