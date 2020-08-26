@@ -27,13 +27,14 @@
 	- the platform has answers for 100% of the red belt requirements.
 
 9. If you have any problems submitting,
-	- send me your github repo and your deployed ip here: bstanton@codingdojo.com
+	- send me your github repo or your deployed ip here: bstanton@codingdojo.com
 
 10 If you go over time, submit anyway and you will get a code review,
 	- always submit code, i’ll review it and give feedback
 
 11. No matter what, start the exam, take the wireframe, and consider it before monday!! 
 	- we WILL be going over it!
+	- Make that your primary study material for your retake.
 
 12. Don’t worry about a video
 	- just bring it to me when you’re done
